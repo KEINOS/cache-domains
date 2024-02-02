@@ -1,0 +1,3 @@
+# Test for caching thumbnails and chunks of xhr requests
+surrit.com
+eightcha.com
