@@ -1,0 +1,3 @@
+# Qiita user contents via cdn
+*.qiitausercontent.com
+cdm.qiita.com

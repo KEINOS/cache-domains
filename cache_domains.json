@@ -63,6 +63,11 @@
 			"domain_files": ["pathofexile.txt"]
 		},
 		{
+			"name": "qiita",
+			"description": "CDN for Qiita",
+			"domain_files": ["qiita.txt"]
+		},
+		{
 			"name": "renegadex",
 			"description": "CDN for Renegade X",
 			"domain_files": ["renegadex.txt"]
@@ -93,14 +98,19 @@
 			"domain_files": ["steam.txt"]
 		},
 		{
-			"name": "uplay",
-			"description": "CDN for uplay downloader",
-			"domain_files": ["uplay.txt"]
-		},
-		{
 			"name": "teso",
 			"description": "CDN for The Elder Scrolls Online",
 			"domain_files": ["teso.txt"]
+		},
+		{
+			"name": "test",
+			"description": "streaming site test",
+			"domain_files": ["video.txt"]
+		},
+		{
+			"name": "uplay",
+			"description": "CDN for uplay downloader",
+			"domain_files": ["uplay.txt"]
 		},
 		{
 			"name": "warframe",
@@ -121,11 +131,6 @@
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
-		},
-		{
-			"name": "test",
-			"description": "streaming site test",
-			"domain_files": ["video.txt"]
 		}
 	]
 }
