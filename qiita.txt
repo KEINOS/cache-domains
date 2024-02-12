@@ -1,3 +1,4 @@
 # Qiita user contents via cdn
 *.qiitausercontent.com
 cdn.qiita.com
+cdnjs.cloudflare.com
